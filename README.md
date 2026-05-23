@@ -59,8 +59,8 @@ Projects using Python, Flask, HTML, CSS, and JavaScript.
 ## 🌐 Connect With Me
 
 - GitHub: https://github.com/Pratik1309
-- LinkedIn: Add Your LinkedIn Link
-- Email: your-email@example.com
+- LinkedIn:
+- Email: pratiksai866@gmail.com
 
 ---
 
